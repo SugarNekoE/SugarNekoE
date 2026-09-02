@@ -18,5 +18,5 @@ GPG Fingerprint: 89C4 8A71 E4EB 9EF0 C044 2D0E FC2C A379 5870 0609
 
 ## Environment
 
-* Arch • Fedora • RHEL
-* GNOME / Sway • Fish • Neovim
+* NixOS • Fedora • RHEL
+* Plasma / Sway • Fish • Neovim
