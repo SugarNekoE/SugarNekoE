@@ -4,12 +4,6 @@
   <img src="https://github.com/SugarNekoE/SugarNekoE/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-## Signature
-
-```
-GPG Fingerprint: 89C4 8A71 E4EB 9EF0 C044 2D0E FC2C A379 5870 0609
-```
-
 ## Languages
 
 [![Languages](https://skillicons.dev/icons?i=c,cpp,cmake,go,html,css,js,ts,php,haskell,dart,kotlin,rust,py,lua,graphql,wasm)](https://skillicons.dev)
@@ -29,3 +23,9 @@ GPG Fingerprint: 89C4 8A71 E4EB 9EF0 C044 2D0E FC2C A379 5870 0609
 ## Applications
 
 [![Industry Applications](https://skillicons.dev/icons?i=androidstudio,arduino,figma,unity,ableton)](https://skillicons.dev)
+
+## Signature
+
+```
+GPG Fingerprint: 89C4 8A71 E4EB 9EF0 C044 2D0E FC2C A379 5870 0609
+```
