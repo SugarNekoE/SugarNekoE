@@ -10,13 +10,22 @@
 GPG Fingerprint: 89C4 8A71 E4EB 9EF0 C044 2D0E FC2C A379 5870 0609
 ```
 
-## Tech Stack
+## Languages
 
-* Linux / Kernel hacking
-* Go / C / C++ / Rust
-* Network / Web / Embedded
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cmake,go,html,css,js,ts,php,haskell,dart,kotlin,rust,py,lua,graphql,wasm)](https://skillicons.dev)
 
-## Environment
+## Environments
 
-* NixOS • Fedora • RHEL
-* Plasma / Sway • Fish • Neovim
+[![Environments](https://skillicons.dev/icons?i=docker,kubernetes,terraform,cloudflare,workers,nginx,redis,rabbitmq,sqlite,mysql,postgres,mongodb,nodejs,react,svelte,flutter,laravel,ktor,supabase)](https://skillicons.dev)
+
+## Operating Systems
+
+[![Operating Systems](https://skillicons.dev/icons?i=nix,redhat,raspberrypi)](https://skillicons.dev)
+
+## Tools
+
+[![Tools](https://skillicons.dev/icons?i=npm,pnpm,bun,vite,git,github,neovim,vim,atom,jenkins,grafana,prometheus,sentry,stackoverflow)](https://skillicons.dev)
+
+## Applications
+
+[![Industry Applications](https://skillicons.dev/icons?i=androidstudio,arduino,figma,unity,ableton)](https://skillicons.dev)
